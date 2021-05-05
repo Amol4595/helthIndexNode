@@ -1,0 +1,14 @@
+Database used is sql
+we have to take dump of  employee_general_health_details (database name = doctorapp) table from mmkndmobdev server
+and replace it in  employee_general_health_details (database name = doctorapp) table in themahindraway server
+
+Note
+we have used JWT webtoken for each api
+payloads coming from client and response sent is encrypted using cryptoJs aes128 
+key - 1234567
+iv - 0001000100010001
+
+
+end point - http://themahindraway.in 
+
+
